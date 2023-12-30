@@ -4,6 +4,10 @@
 
 This project is a simplified "Plants vs Zombies" game with hexagon enemies in a 3x3 grid. Players place rhombus defenders strategically to shoot projectiles and eliminate hexagons.
 
+## Requirements
+
+- **CMake:** Required for building and running the game.
+- 
 ## Basic Functionality
 
 - **Game Elements:** Simple grid with rhombus defenders and hexagon enemies.
