@@ -7,7 +7,7 @@ This project is a simplified "Plants vs Zombies" game with hexagon enemies in a 
 ## Requirements
 
 - **CMake:** Required for building and running the game.
-- 
+  
 ## Basic Functionality
 
 - **Game Elements:** Simple grid with rhombus defenders and hexagon enemies.
