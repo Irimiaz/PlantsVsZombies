@@ -24,7 +24,6 @@ This project is a simplified "Plants vs Zombies" game with hexagon enemies in a 
 
 - **Visual Elements:** Construct using triangles or basic shapes.
 - **Scene Construction:** Design a grid-based scene with specific color schemes.
-- **Drag & Drop:** Transform cursor coordinates, implement AABB for object detection.
 - **Collision Detection:** Utilize circles for collision approximation.
 - **GUI Implementation:** Design a concise interface with framed visuals, containers, and indicators.
 
