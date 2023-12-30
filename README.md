@@ -1,4 +1,4 @@
-# Plants vs Hexagons
+# Plants vs Zombies
 
 ## Overview
 
